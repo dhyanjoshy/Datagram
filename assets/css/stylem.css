@@ -266,3 +266,6 @@ body::-webkit-scrollbar-track-piece{
 .parag {
   text-align: justify;
 }
+.fadein{
+  opacity: 0.5 !important;
+}
